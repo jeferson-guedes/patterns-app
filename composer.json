@@ -1,0 +1,15 @@
+{
+    "name": "patterns-app",
+    "authors": [
+        {
+            "name": "Jeferson Guedes",
+            "email": "jguedes.tec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src"
+        }
+    }
+}
